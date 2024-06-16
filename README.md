@@ -3,6 +3,8 @@
 # Dev_Setup
 Setup Development Environment
 
+Link to se-assignment-1-setting-up-your-deveoper-environment-Svillyear https://docs.google.com/document/d/1F2Ivpq7an9e66QuOLQi2CMul5c_tbwO0xPBETwdqgCs/edit
+
 #Assignment: Setting Up Your Developer Environment
 
 #Objective:

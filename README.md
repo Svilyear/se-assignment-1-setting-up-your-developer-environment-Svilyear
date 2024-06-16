@@ -52,3 +52,6 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Link to se-assignment-1-setting-up-your-deveoper-environment-Svillyear >>https://docs.google.com/document/d/1F2Ivpq7an9e66QuOLQi2CMul5c_tbwO0xPBETwdqgCs/edit
+
